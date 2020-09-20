@@ -1,3 +1,6 @@
+2D PCA using Keras. See 'analysis.pdf' for more detail
+Author: Taylor Dieffenbach
+
 ‘winequality-red.csv’ and ‘winequality-white.csv’ datasets include a number of measurable chemical features of any wine, such as fixed acidity, volatile acidity, citric acid, and residual sugar.
 
 The datasets were loaded and merged into one pandas dataframe, log-transformed, and scaled.
